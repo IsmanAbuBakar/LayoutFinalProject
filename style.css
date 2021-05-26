@@ -1,0 +1,15 @@
+.card {
+width: 350px;
+}
+
+.card-text{
+    left: 0px;
+}
+
+.card img {
+ width: 100%;
+}
+
+input{
+    width: 100%;
+}
